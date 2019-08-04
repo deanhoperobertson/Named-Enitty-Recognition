@@ -10,7 +10,7 @@ This repository explores different techiques used for Named Entity Recognition (
 
 ### Neural Network 
 - BiLSTM (F1=0.2)
-- BiLSTM-CRF (F1=)
+- BiLSTM-CRF (F1=0.68)
 - BiLSTM-CRF (+Glove Word Embeddings) (F1=0.85)
 - BiLSTM-CRF (Char + Word Embeddings) (F1=0.89)
 
