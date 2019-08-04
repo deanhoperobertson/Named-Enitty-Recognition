@@ -1,6 +1,6 @@
 # Named-Enitty-Recognition
 
-This repository explores different techiques used for Named Entity Recognition (NER) on the CONLL 2003 Reuters Dataset. The data can be found here: https://www.clips.uantwerpen.be/conll2003/ner/ and is under licience by Reauters. 
+This repository explores different techiques used for Named Entity Recognition (NER) on the CONLL 2003 Reuters Dataset. The data can be found here: https://www.clips.uantwerpen.be/conll2003/ner/ and is under licience by Reuters. 
 
 ## Models
 ### Feature Engineered
