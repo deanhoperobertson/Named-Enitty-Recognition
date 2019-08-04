@@ -4,15 +4,15 @@ This repository explores different techiques used for Named Entity Recognition (
 
 ## Models
 ### Feature Engineered
-- Memory-Based Tagger Model (F1=0.52) 
-- RandomForest Model (F1=0.61) 
-- Condition Random Fields (F1=0.82) 
+- Memory-Based Tagger Model (F1=**0.52**) 
+- RandomForest Model (F1=**0.61**) 
+- Condition Random Fields (F1=**0.82**) 
 
 ### Neural Network 
-- BiLSTM (F1=0.2)
-- BiLSTM-CRF (F1=0.68)
-- BiLSTM-CRF (+Glove Word Embeddings) (F1=0.85)
-- BiLSTM-CRF (Char + Word Embeddings) (F1=0.89)
+- BiLSTM (F1=**0.2**)
+- BiLSTM-CRF (F1=**0.68**)
+- BiLSTM-CRF (+Glove Word Embeddings) (F1=**0.85**)
+- BiLSTM-CRF (Char + Word Embeddings) (F1=**0.89**)
 
 ## Requirements
 - Python 3.6
