@@ -14,8 +14,6 @@ This repository explores different techiques used for Named Entity Recognition (
 - BiLSTM-CRF (+Glove Word Embeddings) (F1=0.85)
 - BiLSTM-CRF (Char + Word Embeddings) (F1=0.89)
 
-- 
-
 ## Requirements
 - Python 3.6
 - NumPy
