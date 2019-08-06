@@ -15,6 +15,13 @@ This repository explores different techiques used for Named Entity Recognition (
 - BiGRU-CRF (+Glove Word Embeddings) (F1=**0.85**)
 - BiLSTM-CRF (Char + Word Embeddings) (F1=**0.89**)
 
+## Word Embeddings:
+- 6B.Glove.50d
+- 6B.Glove.100d
+- 6B.Glove.200d
+- 6B.Glove.300d
+- Fasttext 16B.wiki-news-300d
+
 ## Requirements
 - Python 3.6
 - NumPy
