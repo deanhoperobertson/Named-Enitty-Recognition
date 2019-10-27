@@ -6,6 +6,8 @@ This repository explores different techiques used for Named Entity Recognition (
 ### Feature Engineered
 - Memory-Based Tagger Model (F1=**0.52**) 
 - RandomForest Model (F1=**0.61**) 
+- Condition Random Fields [w-1] (F1=**0.82**) 
+- Condition Random Fields (F1=**0.82**) 
 - Condition Random Fields (F1=**0.82**) 
 
 ### Neural Network 
