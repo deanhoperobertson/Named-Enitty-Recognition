@@ -13,8 +13,15 @@ This repository explores different techiques used for Named Entity Recognition (
 ### Neural Network 
 - BiLSTM (F1=**0.2**)
 - BiLSTM-CRF (F1=**53.3**)
-- BiLSTM-CRF (+Glove50D Word Embeddings) (F1=**80.9**)
-- BiGRU-CRF (+Glove Word Embeddings) (F1=**0.85**)
+- BiLSTM-CRF (6B + Glove 50D) (F1=**81.4**)
+- BiLSTM-CRF (6B + Glove 100D) (F1=**82.4**)
+- BiLSTM-CRF (6B + Glove 200D) (F1=**83.5**)
+- BiLSTM-CRF (6B + Glove 300D) (F1=**??**)
+
+- BiLSTM-CRF (42B + Glove 300D) (F1=**??**)
+
+- BiLSTM-CRF (Casing Features + 6B Glove 50D) (F1=**0.857**)
+
 - BiLSTM-CRF (Char + Word Embeddings) (F1=**0.894**)
 - BiLSTM-CRF (Elmo Embeddings) (F1=**0.898**)
 
