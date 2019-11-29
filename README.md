@@ -4,8 +4,6 @@ This repository explores different techiques used for Named Entity Recognition (
 
 ## Models
 ### Feature Engineered
-- Memory-Based Tagger Model (F1=**0.52**) 
-- RandomForest Model (F1=**0.61**) 
 - Condition Random Fields [w-1] (F1=**83.29**) 
 - Condition Random Fields [w-2] (F1=**84.23**) 
 - Condition Random Fields [w-3] (F1=**83.76**) 
@@ -17,10 +15,12 @@ This repository explores different techiques used for Named Entity Recognition (
 - BiLSTM-CRF (6B + Glove 100D) (F1=**82.4**)
 - BiLSTM-CRF (6B + Glove 200D) (F1=**83.5**)
 - BiLSTM-CRF (6B + Glove 300D) (F1=**83.1**)
-- BiLSTM-CRF (42B + Glove 300D) (F1=**75**)
 - BiLSTM-CRF (Casing Features + 6B Glove 50D) (F1=**0.857**)
 
 ## Other Models
+- Memory-Based Tagger Model (F1=**0.52**) 
+- RandomForest Model (F1=**0.61**) 
+- BiLSTM-CRF (42B + Glove 300D) (F1=**75**)
 - BiLSTM-CRF (Char + Word Embeddings) (F1=**0.894**)
 - BiLSTM-CRF (Elmo Embeddings) (F1=**0.898**)
 
