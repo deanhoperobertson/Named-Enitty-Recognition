@@ -7,7 +7,7 @@ This repository explores different techiques used for Named Entity Recognition (
 - Conditional Random Fields [w] (F1=**78.50**) 
 - Conditional Random Fields [w-1] (F1=**83.66**) 
 - Conditional Random Fields [w-2] (F1=**84.93**) 
-- Conditional Random Fields [w-3] (F1=**83.76**) 
+- Conditional Random Fields [w-3] (F1=**84.54**) 
 
 ### Neural Network 
 - BiLSTM (F1=**0.2**)
