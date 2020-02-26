@@ -17,6 +17,9 @@ This repository explores different techiques used for Named Entity Recognition (
 - BiLSTM-CRF (6B Glove 200D) (F1=**83.29**)
 - BiLSTM-CRF (6B Glove 300D) (F1=**83.10**)
 
+#### Glove
+- BiLSTM-CRF (SENNA 50D) (F1=**82.0**)
+
 ### Neural Network + Word Embeddings + Casing
 - BiLSTM-CRF (6B Glove 50D + Features) (F1=**85.99**)
 
@@ -29,11 +32,8 @@ This repository explores different techiques used for Named Entity Recognition (
 - BiLSTM-CRF (Elmo Embeddings) (F1=**89.8**)
 
 ## Word Embeddings:
-- 6B.Glove.50d
-- 6B.Glove.100d
-- 6B.Glove.200d
-- 6B.Glove.300d
-- Fasttext 16B.wiki-news-300d
+- Standford Glove
+- SENNA
 - Elmo Embeddings
 
 ## Requirements
