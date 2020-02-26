@@ -18,7 +18,7 @@ This repository explores different techiques used for Named Entity Recognition (
 - BiLSTM-CRF (6B + Glove 300D) (F1=**83.10**)
 
 ### Neural Network + Word Embeddings + Casing
-- BiLSTM-CRF (Casing Features + 6B Glove 50D) (F1=**85.7**)
+- BiLSTM-CRF (Casing Features + 6B Glove 50D) (F1=**85.99**)
 
 ## Other Models
 - Memory-Based Tagger Model (F1=**52**) 
