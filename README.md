@@ -9,7 +9,8 @@ This repository explores different techiques used for Named Entity Recognition (
 - Conditional Random Fields [w-2] (F1=**84.93**) 
 - Conditional Random Fields [w-3] (F1=**84.54**) 
 
-### Neural Network 
+### Neural Network + Word Embeddings
+#### Glove
 - BiLSTM-CRF (F1=**70.69**)
 - BiLSTM-CRF (6B + Glove 50D) (F1=**82.0**)
 - BiLSTM-CRF (6B + Glove 100D) (F1=**83.15**)
