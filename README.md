@@ -4,10 +4,10 @@ This repository explores different techiques used for Named Entity Recognition (
 
 ## Models
 ### Feature Engineered
-- Conditional Random Fields [w] (F1=**77.7**) 
-- Conditional Random Fields [w-1] (F1=**83.5**) 
-- Conditional Random Fields [w-2] (F1=**83.3**) 
-- Conditional Random Fields [w-3] (F1=**83.9**) 
+- Conditional Random Fields [w] (F1=**77.73**) 
+- Conditional Random Fields [w-1] (F1=**83.54**) 
+- Conditional Random Fields [w-2] (F1=**83.25**) 
+- Conditional Random Fields [w-3] (F1=**83.91**) 
 
 ### Neural Network + Word Embeddings
 #### Glove
