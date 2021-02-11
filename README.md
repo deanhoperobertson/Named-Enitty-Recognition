@@ -16,19 +16,13 @@ This repository explores different techiques used for Named Entity Recognition (
 #### SENNA
 - BiLSTM-CRF (SENNA 50D) (F1=**82.79**)
 
-### Neural Network + Word Embeddings + Casing
-- BiLSTM-CRF (6B Glove 50D + Features) (F1=**85.20**)
-- BiLSTM-CRF (SENNA 50D + Features) (F1=**85.55**)
-
 ## Other Models
-- BiLSTM-CRF (42B + Glove 300D) (F1=**75**)
-- BiLSTM-CRF (Char + Word Embeddings) (F1=**89.4**)
-- BiLSTM-CRF (Elmo Embeddings) (F1=**89.8**)
+- BiLSTM-CRF (Glove + Casing Features) (F1=**86.23**)
+- BiLSTM-CRF (SENNA + Casing Features) (F1=**85.35**)
 
 ## Word Embeddings:
 - Standford Glove
 - SENNA
-- Elmo Embeddings
 
 ## Requirements
 - Python 3.6
