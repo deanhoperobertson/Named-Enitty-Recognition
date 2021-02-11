@@ -21,7 +21,7 @@ This repository explores different techiques used for Named Entity Recognition (
 - BiLSTM-CRF (SENNA + Casing Features) (F1=**85.35**)
 
 ## Word Embeddings:
-- Standford Glove
+- GloVe
 - SENNA
 
 ## Requirements
