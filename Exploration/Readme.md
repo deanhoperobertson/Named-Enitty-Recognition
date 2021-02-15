@@ -1,7 +1,7 @@
 
 # Exploration
 
-## Data Exploratio
+## Data Exploration
 Analysis of the CONLL-2003 datatsets in order to summarizes high-level characteristics and statistics.
 
 ## Word Embeddings
