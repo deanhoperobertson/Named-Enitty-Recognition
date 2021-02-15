@@ -10,7 +10,7 @@ This repository explores different techiques used for Named Entity Recognition (
 - Conditional Random Fields [w-3] (F1=**83.91**) 
 
 ### BiLSTM-CRF + Word Embeddings
-![BiLSTM_CRF](https://github.com/deanhoperobertson/Named-Enitty-Recognition/blob/master/Thesis/Images/BiLSTM_CRF.png?raw=true)
+![BiLSTM_CRF](https://github.com/deanhoperobertson/Named-Enitty-Recognition/blob/master/Thesis/Images/BiLSTM_CRF.png){ width=50% }
 #### Glove
 - BiLSTM-CRF (Glove 50D) (F1=**82.55**)
 
